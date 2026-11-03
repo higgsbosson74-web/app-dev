@@ -1,32 +1,36 @@
-# Stranger Things
+# Titanic (1997)
  
-**Stranger Things** is a sci-fi horror drama series set in the 1980s in the fictional town of *Hawkins, Indiana*. When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl with ***psychokinetic abilities***.
- 
-> "Friends don't lie." — *Eleven*
+**Titanic** is an epic romance and disaster film directed by *James Cameron*. Set aboard the ill-fated maiden voyage of the `RMS Titanic` in April 1912, the story follows **Jack Dawson**, a free-spirited artist, and **Rose DeWitt Bukater**, a young upper-class woman trapped in an unhappy engagement, as they fall in love aboard the ***unsinkable*** ship.
  
 ---
  
 ## Main Characters & Cast
  
-| Character | Played By | Role in the Party |
+| Character | Played By | Role |
 | :--- | :--- | :--- |
-| **Eleven** | Millie Bobby Brown | The Mage |
-| **Mike Wheeler** | Finn Wolfhard | The Paladin |
-| **Dustin Henderson** | Gaten Matarazzo | The Bard |
-| **Lucas Sinclair** | Caleb McLaughlin | The Ranger |
-| **Will Byers** | Noah Schnapp | The Cleric |
+| **Jack Dawson** | Leonardo DiCaprio | Third-Class Passenger |
+| **Rose DeWitt Bukater** | Kate Winslet | First-Class Passenger |
+| **Caledon Hockley** | Billy Zane | Rose's Fiancé |
+| **Margaret Brown** | Kathy Bates | First-Class Passenger |
+| **Captain Edward J. Smith** | Bernard Hill | Commanding Officer |
  
 ---
  
-### Season Watchlist
+## Top 3 Reasons It Is My Favorite Movie
  
-- [x] Season 1
-- [x] Season 2
-- [x] Season 3
-- [x] Season 4
-- [ ] Season 5
+1. **Unforgettable Soundtrack** – Features James Horner's orchestral score and Celine Dion's song *"My Heart Will Go On"*.
+2. **Historical Detail & Visual Effects** – Recreates the grand ship and the sinking with remarkable accuracy, winning `11 Academy Awards` including **Best Picture**.
+3. **Timeless Chemistry** – The emotional story between Jack and Rose makes the historical tragedy feel deeply personal.
+ 
+## Iconic Movie Moments
+ 
+- Boarding the ship in Southampton
+- The famous scene at the bow of the ship
+- Jack and Rose dancing in Third Class
+- The collision with the iceberg in the North Atlantic
  
 ---
  
-### Official Link
-(https://en.wikipedia.org/wiki/Stranger_Things)
+## More Information
+[IMDb - Titanic (1997)]
+https://en.wikipedia.org/wiki/Titanic
