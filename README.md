@@ -29,4 +29,4 @@
 ---
  
 ### Official Link
-[IMDb - Stranger Things](https://www.imdb.com/title/tt4574334/)
+(https://en.wikipedia.org/wiki/Stranger_Things)
